@@ -35,7 +35,7 @@ You can upload any files to the environment, such as x86-64 assembly files, C he
 
 ## Images details
 
-zilu02/assembly-env-amd64:latest is the only one image included in the whole project, this image **bases on Ubuntu 22.04** with debugging, compiling tools and building tools, such as gcc, gcc-c++, cmake, make, etc.
+**"zilu02/assembly-env-amd64:latest"** is the only one image included in the whole project, this image **bases on Ubuntu 22.04** with debugging, compiling tools and building tools, such as gcc, gcc-c++, cmake, make, etc.
 
 Please visit Docker Hub for more information, if any problems occur, feel free to contact me through following email address
 
